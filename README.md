@@ -1,5 +1,5 @@
 # Datasets collection
-This repository contians datasets from various sources.]
+This repository contians datasets from various sources.
 
 ## The list of data sets
 |    File name    |    Dataset name         |   Source  |   URL                                            |
